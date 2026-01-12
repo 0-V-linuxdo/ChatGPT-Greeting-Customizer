@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name                 [ChatGPT] Greeting Customizer [20260112] v1.0.0
 // @name:zh-CN           [ChatGPT] 问候语自定义 [20260112] v1.0.0
-// @namespace            http://tampermonkey.net/
+// @namespace            https://github.com/0-V-linuxdo/ChatGPT-Greeting-Customizer
 // @description          Replace the ChatGPT home greeting with your own custom text.
 // @description:zh-CN    将 ChatGPT 首页问候语换成自定义文案！
 //
