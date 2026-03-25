@@ -1,2 +1,1 @@
-# ChatGPT-Greeting-Customizer
-[ChatGPT] Greeting Customizer
+# AI-Greeting-Customizer
